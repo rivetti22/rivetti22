@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rivetti22
 - 👀 I’m interested in Computer Vision and Machine&Deep Learning
-- 🌱 I’m currently finishing my Master's Degree in Electrical and Computer Engineering
+- 🌱 Graduated in Automation - Master's Degree in Electrical and Computer Engineering at University of Coimbra
 - 💞️ I’m looking to collaborate on challenging projects that can bring groundbreaking results/solutions to society
 - 📫 How to reach me - Email: alrivetti22@gmail.com
 
